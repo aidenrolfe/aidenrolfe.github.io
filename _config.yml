@@ -1,0 +1,33 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Aiden Rolfe
+tagline:             MSci Astrophysics Graduate from the University of Nottingham
+url:                 http://aidenrolfe.github.io/portfolio
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Aiden Rolfe
+
+# Custom vars
+version:             2.0.1
+github:
+  repo:              https://github.com/aidenrolfe/portfolio
+google_analytics:    UA-3363703-15
+
+github:              aidenrolfe
+
+# Gems
+plugins:
+  # - jekyll-paginate
+  # - jekyll-gist
