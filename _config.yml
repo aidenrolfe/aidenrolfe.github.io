@@ -31,3 +31,5 @@ github:              aidenrolfe
 plugins:
   # - jekyll-paginate
   # - jekyll-gist
+
+theme: jekyll-theme-cayman
